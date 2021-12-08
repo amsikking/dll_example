@@ -7,7 +7,7 @@
 	- Windows 10 SDK (10.0.19041.0))
 	- more? or updated versions?
 - Stop at p310 ("Create a client app that uses the DLL")
-- This produce the directory "MathLibrary" and contents (many files and folders), including:
+- This produces the directory "MathLibrary" and contents (many files and folders), including:
 	- MathLibrary.h
 	- MathLibrary.cpp
 	- MathLibrary.dll
